@@ -1,0 +1,2 @@
+# lugat
+Uz-En Lugat
